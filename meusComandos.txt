@@ -1,0 +1,15 @@
+// Por causa dos erros do npm install
+// Apagar node_Modules
+
+npm install --global windows-build-tools
+
+
+npm i
+
+
+
+ npm run build
+
+
+
+ 
